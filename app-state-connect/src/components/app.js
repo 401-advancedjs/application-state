@@ -3,17 +3,6 @@ import { connect } from 'react-redux';
 import * as actions from './../store/actions.js';
 
 class App extends React.Component {
-  // constructor(props) {
-  //   super(props);
-  //   this.state = {
-  //     foo:'bar'
-  //   }
-  // }
-
-  // handleChange = () => {
-  //   this.setState({foo:Math.random()});
-  // }
-
   render() {
     return (
       <div onClick = { this.props.handleChange }>

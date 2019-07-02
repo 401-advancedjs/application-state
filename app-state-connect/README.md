@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advancedjs/application-state/pull/1)
-* [front-end](https://codesandbox.io/s/github/401-advancedjs/application-state/tree/submission/app-state-connect)
+* [front-end](https://codesandbox.io/s/starter-code-app-state-pznj2)
 
 ### Modules
 #### `app.js`
@@ -30,4 +30,4 @@
   * functional components behave in an expected manner
 
 #### UML
-Link to an image of the UML for your application and response to events
+![redux uml](redux.png)
